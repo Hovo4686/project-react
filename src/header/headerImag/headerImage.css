@@ -1,0 +1,39 @@
+.imageText {
+    background-image: url('https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg');
+    width: 100%;
+    height: 100vh;
+}
+
+.text {
+ margin-left: 15%;
+ padding-top: 15%;
+
+}
+
+.textColor{
+    color: rgb(255, 255, 255);
+    padding: 7px;
+    
+}
+h3 {
+    font-size: 46px;
+    color: rgb(174, 163, 148);
+}
+span {
+    color: darkgoldenrod;
+}
+.btn1 {
+    margin-top: 50px;
+}
+.but{
+    background-color: rgb(19, 226, 167);
+    color: rgb(4, 4, 4);
+    width: 20%;
+    
+}
+.but:hover{
+    background-color: rgb(201, 225, 42);
+    color: rgb(82, 73, 73);
+    width: 20%;
+    
+}
